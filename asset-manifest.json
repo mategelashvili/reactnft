@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactnft/static/css/main.b14c0eb7.css",
+    "main.js": "/reactnft/static/js/main.141ba98f.js",
+    "static/js/787.a9966a12.chunk.js": "/reactnft/static/js/787.a9966a12.chunk.js",
+    "static/media/ecv.jpg": "/reactnft/static/media/ecv.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/reactnft/index.html",
+    "static/media/viwe.svg": "/reactnft/static/media/viwe.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/clock.svg": "/reactnft/static/media/clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/eth.svg": "/reactnft/static/media/eth.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.b14c0eb7.css.map": "/reactnft/static/css/main.b14c0eb7.css.map",
+    "main.141ba98f.js.map": "/reactnft/static/js/main.141ba98f.js.map",
+    "787.a9966a12.chunk.js.map": "/reactnft/static/js/787.a9966a12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b14c0eb7.css",
+    "static/js/main.141ba98f.js"
+  ]
+}
