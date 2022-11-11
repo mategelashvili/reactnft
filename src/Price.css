@@ -1,0 +1,32 @@
+.price{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;   
+}
+.price div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 96px;
+    margin-left: 15px;
+}
+.price div:first-child img{
+    width: 11px;
+    height: 18px;
+}
+.price div:nth-child(2) img {
+    width: 16px;
+    height: 16px;
+}
+.price div:first-child p {
+    color:#00FFF8;
+    font-size: 16px;
+    font-family: 'Outfit';
+    font-weight: 600;
+}
+.price div:nth-child(2) p{
+    color: #8BACD9;
+    font-size: 16px;
+    font-family: 'Outfit';
+    font-weight: 400;
+}

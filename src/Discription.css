@@ -1,0 +1,22 @@
+ h4{
+    font-size: 22px;
+    color: #fff;
+    font-family: 'Outfit';
+    font-weight: 600;
+    transition: 0.3s ease;
+    margin-left: 5px;
+   
+}
+ h4:hover {
+    color: #00FFF8;
+    cursor: pointer;
+}
+ p {
+    font-size: 18px;
+    color: #8BACD9;
+    line-height: 26px;
+    font-family: 'Outfit';
+    font-weight: 300;
+    font-style: normal;
+    width: 320px;
+}
